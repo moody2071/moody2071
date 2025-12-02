@@ -33,38 +33,34 @@
 
 <h3>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px" style="vertical-align:middle">
-  لغات البرمجة
+  لغات البرمجة الأساسية
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dart,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=dart,python,cs,cpp" />
 </a>
 
 <h3>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="35px" style="vertical-align:middle">
-  تطوير التطبيقات والويب
+  البيئات وأطر العمل
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=flutter,unity,html,css,js,rest" />
 </a>
 
 <h3>🗄️ قواعد البيانات والتخزين</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,mongodb" />
 </a>
 
-<h3>☁️ السحابة والعمليات (DevOps )</h3>
+<h3>🛡️ الأدوات والأمن السيبراني</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,firebase,aws,linux" />
-</a>
-
-<h3>⚙️ الأدوات والمنصات</h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,unity,vscode,kali" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,kali,linux" />
 </a>
 
 </div>
+
 
 
 
