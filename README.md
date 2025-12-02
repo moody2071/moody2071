@@ -53,7 +53,31 @@
 <!--  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
   <h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
+<img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
+- ⭐ I’m a `Software Engineer`, [**`DSF Member`**](https://www.djangoproject.com/foundation/individual-members/), and [**`Community Builder`**](https://github.com/AhmedNassar7/Software-Engineering).
+  
+- 🚀 Passionate about `Web Development`.
+
+- 💡 Interested in contributing to `Open Source Projects`.
+
+- 💬 Ask me about `Software Engineering`.
+
+- 🎯 Focus on `Quality` over `Quantity`
+  
+- 🔍 Seeking an `Internship` or a `Job`.
+
+- 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
+
+- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1AZ9sVmv92Bqf_8hZIC49jYnkNMwwdTUv/view?usp=sharing)**.
+
+- ✨ Enjoy my GitHub profile.
+
+&nbsp;
+
+<div align="center">
+  <img width="900" height="200" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+</div>
 
 <!-- ======== Skills ======== -->
 <div align="center">
