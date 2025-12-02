@@ -48,7 +48,7 @@
 </a>
 <h3>🛡️ Tools and cybersecurity</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,postman,kali,linux,ubuntu,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,postman,kali,linux,ubuntu,docker,bots" />
 </a></div>
 
 
