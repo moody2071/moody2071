@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://mohammed2071.itch.io/" target="_blank">
   <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
+  <a href="https://mb.mduosoft.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 
