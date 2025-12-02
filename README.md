@@ -1,10 +1,22 @@
-# 👋 محمد يحيى باطاهر (Mohammed Yahya Bataher)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+<h1 id="top" align="center">Hi, I'm Mohammed Bataher <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=38C2FF&center=true&random=true&width=435&lines=Software+Engineer;Flutter+developer;Website+developer;Game+Developer;Cybersecurity)](https://git.io/typing-svg)
+
+
 ### مطور تطبيقات وألعاب | مختص أمن سيبراني | مؤسس فريق M!DuoSoft
 
 مرحباً بك في ملفي الشخصي على GitHub! أنا **مطور برمجيات** شغوف بتحويل الأفكار المبتكرة إلى حلول رقمية متقدمة. لدي خبرة تزيد عن **5 سنوات** في تطوير تطبيقات الهاتف المحمول باستخدام **Flutter**، وصناعة الألعاب باستخدام **Unity**، بالإضافة إلى اهتمام عميق بمجال **الأمن السيبراني** واختبار الاختراق.
 
 **[السيرة الذاتية الكاملة](https://flowcv.com/resume/kgrdsgcndor2) | [الموقع الشخصي](https://mb.mduosoft.com/)**
+<p align="center"> 
+  <a href="[https://t.me/pigolitsyn_m](https://instagram.com/mo_do20)" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+   <a href="https://t.me/pigolitsyn_m" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+</p>
 
 ---
 
