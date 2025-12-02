@@ -1,6 +1,10 @@
 <h1 id="top" align="center">Hi, I'm Mohammed Bataher <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1800&pause=600&color=38C2FF&center=true&vCenter=true&random=true&width=600&lines=Software+Engineer;Flutter+developer;Website+developer;Game+Developer;Cybersecurity" alt="Typing SVG"/>
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=38C2FF&center=true&random=true&width=435&lines=Software+Engineer;Flutter+developer;Website+developer;Game+Developer;Cybersecurity)](https://git.io/typing-svg)
 
 
 ### مطور تطبيقات وألعاب | مختص أمن سيبراني | مؤسس فريق M!DuoSoft
