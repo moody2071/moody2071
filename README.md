@@ -83,6 +83,29 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+
+## 🚀 professional experience
+
+| الفترة | المنصب | الجهة | المسؤوليات الرئيسية |
+| :--- | :--- | :--- | :--- |
+| 07/2024 - حتى الآن | مؤسس فريق M!DuoSoft | M!DuoSoft | تأسيس وإدارة الأعمال، تطوير وتنفيذ تطبيقات متعددة، الإشراف على جميع مراحل المشروع. |
+| 11/2023 - 04/2024 | مطور Flutter | وكالة أمن الدولة | تطوير وتطبيق تطبيقات جوال سهلة الاستخدام باستخدام Dart و Flutter، إجراء اختبارات الوحدة والتكامل، مراجعة الأكواد. |
+| 11/2022 - 11/2023 | مطور Flutter (مستقل) | عمل حر | خبرة في تطوير تطبيقات الجوال، استخدام قواعد بيانات محلية مثل SQLite و Hive، تصميم واجهات مستجيبة. |
+
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+
+## ✨ Selected projects
+
+| المشروع | الوصف | التقنيات المستخدمة |
+| :--- | :--- | :--- |
+| **Fabulous / Rsvply** | تطبيقات مبتكرة لإدارة الفعاليات والمناسبات، تتيح تسجيل الحضور والانصراف ومتابعة الوجبات عبر مسح الباركود، مع توليد تقارير دقيقة. | Flutter, Scanner, Firebase |
+| **بلدتي المهرة** | تطبيق تفاعلي لتمكين المواطنين من الإبلاغ عن المشكلات لتحسين الخدمات العامة ورفع جودة الحياة. | Flutter, Google Maps, Firebase |
+| **Glitch Zero** | لعبة هروب في عالم صناعي كئيب، حيث يتحول أول منتج يكتسب وعيًا ذاتيًا إلى "خلل" يجب التخلص منه. | Unity, C#, URP 2D Lighting, Animator |
+| **الهندسة العكسية للتطبيقات** | مشروع توعوي يوضح سهولة الحصول على معلومات حساسة واختراق بعض الوظائف في التطبيقات غير المؤمنة. | Kali Linux, Assembly, Metasploit, Reverse Engineering |
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
 <!-- ======== Skills ======== -->
 <div >
@@ -107,58 +130,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,postman,kali,linux,ubuntu,docker,bots" />
 </a></div>
 
-
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
-### مطور تطبيقات وألعاب | مختص أمن سيبراني | مؤسس فريق M!DuoSoft
-
-مرحباً بك في ملفي الشخصي على GitHub! أنا **مطور برمجيات** شغوف بتحويل الأفكار المبتكرة إلى حلول رقمية متقدمة. لدي خبرة تزيد عن **5 سنوات** في تطوير تطبيقات الهاتف المحمول باستخدام **Flutter**، وصناعة الألعاب باستخدام **Unity**، بالإضافة إلى اهتمام عميق بمجال **الأمن السيبراني** واختبار الاختراق.
-
-**[السيرة الذاتية الكاملة](https://flowcv.com/resume/kgrdsgcndor2) | [الموقع الشخصي](https://mb.mduosoft.com/)**
-
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
-## 🚀 الخبرة المهنية
-
-| الفترة | المنصب | الجهة | المسؤوليات الرئيسية |
-| :--- | :--- | :--- | :--- |
-| 07/2024 - حتى الآن | مؤسس فريق M!DuoSoft | M!DuoSoft | تأسيس وإدارة الأعمال، تطوير وتنفيذ تطبيقات متعددة، الإشراف على جميع مراحل المشروع. |
-| 11/2023 - 04/2024 | مطور Flutter | وكالة أمن الدولة | تطوير وتطبيق تطبيقات جوال سهلة الاستخدام باستخدام Dart و Flutter، إجراء اختبارات الوحدة والتكامل، مراجعة الأكواد. |
-| 11/2022 - 11/2023 | مطور Flutter (مستقل) | عمل حر | خبرة في تطوير تطبيقات الجوال، استخدام قواعد بيانات محلية مثل SQLite و Hive، تصميم واجهات مستجيبة. |
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
-## 💻 Technical skills
-|
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
-## ✨ مشاريع مختارة
-
-| المشروع | الوصف | التقنيات المستخدمة |
-| :--- | :--- | :--- |
-| **Fabulous / Rsvply** | تطبيقات مبتكرة لإدارة الفعاليات والمناسبات، تتيح تسجيل الحضور والانصراف ومتابعة الوجبات عبر مسح الباركود، مع توليد تقارير دقيقة. | Flutter, Scanner, Firebase |
-| **بلدتي المهرة** | تطبيق تفاعلي لتمكين المواطنين من الإبلاغ عن المشكلات لتحسين الخدمات العامة ورفع جودة الحياة. | Flutter, Google Maps, Firebase |
-| **Glitch Zero** | لعبة هروب في عالم صناعي كئيب، حيث يتحول أول منتج يكتسب وعيًا ذاتيًا إلى "خلل" يجب التخلص منه. | Unity, C#, URP 2D Lighting, Animator |
-| **الهندسة العكسية للتطبيقات** | مشروع توعوي يوضح سهولة الحصول على معلومات حساسة واختراق بعض الوظائف في التطبيقات غير المؤمنة. | Kali Linux, Assembly, Metasploit, Reverse Engineering |
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
-## 📈 إحصائيات GitHub
-
-- 💡 **أعمل حالياً على:** تطوير تطبيقات Flutter متقدمة ودمج تقنيات الأمن السيبراني في دورة حياة تطوير البرمجيات (SDLC).
-- 📫 **تواصل معي:** mb@mduosoft.com
-- 🌐 **الموقع:** [mb.mduosoft.com](https://mb.mduosoft.com/)
-
+<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
  <p align="center">
   <a href="https://github.com/moody2071">
-    <img alt="mpa12's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moody2071&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+    <img alt="mpa12's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moody2071&show_icons=true&locale=en&layout=compact&line_height=20&title_color=125180&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,030e17,135486"/>
   </a>
 </p> 
