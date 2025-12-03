@@ -42,11 +42,9 @@
 <span>[<kbd> <br> Open Source <br> </kbd>](#open-source)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
-<span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
 <span>[<kbd> <br> Skills <br> </kbd>](#technical-skills)</span>
 <span>[<kbd> <br> Stats <br> </kbd>](#github-stats)</span>
-<span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
-<span>[<kbd> <br> Graph <br> </kbd>](#graph)</span></div>
+
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
