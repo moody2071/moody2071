@@ -47,6 +47,8 @@
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+
 
 
 <!--  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
