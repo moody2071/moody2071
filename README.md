@@ -46,7 +46,6 @@
 <span>[<kbd> <br> Stats <br> </kbd>](#github-stats)</span></div>
 
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 
@@ -81,7 +80,7 @@
   <img width="900" height="400" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 <!-- ======== Professional Experience ======== -->
 ## 🚀 Professional Experience
@@ -93,7 +92,7 @@
 | 11/2022 - 11/2023 | مطور Flutter (مستقل) | عمل حر | خبرة في تطوير تطبيقات الجوال، استخدام قواعد بيانات محلية مثل SQLite و Hive، تصميم واجهات مستجيبة. |
 
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 <!-- ======== Selected Projects ======== -->
 ## ✨ Selected Projects
@@ -106,7 +105,7 @@
 | **الهندسة العكسية للتطبيقات** | مشروع توعوي يوضح سهولة الحصول على معلومات حساسة واختراق بعض الوظائف في التطبيقات غير المؤمنة. | Kali Linux, Assembly, Metasploit, Reverse Engineering |
 
 <!-- ======== Open Source Contributions ======== -->
- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 <h2><a id="open-source"></a>🤝 Open Source Contributions</h2>
 
@@ -169,6 +168,6 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moody2071&theme=gruvbox" alt="Profile Details" " />
 </td></div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
